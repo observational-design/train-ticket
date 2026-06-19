@@ -2,7 +2,7 @@
     border: solid red 1px;
     border-radius: 20px;
     height: 275px;
-    width: 500px;
+    width: 450px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -10,14 +10,14 @@
 
 .top-border {
     height: 50px;
-    width: 500px;
+    width: 450px;
     background-color: #FF621F;
     border-radius: 20px 20px 0px 0px;
 }
 
 .bottom-border {
     height: 50px;
-    width: 500px;
+    width: 450px;
     background-color: #FF621F;
     border-radius: 0px 0px 20px 20px;
 }
