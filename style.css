@@ -1,0 +1,5 @@
+.train-ticket {
+    border: solid red 1px;
+    max-height: 250px;
+    max-width: 500px;
+}
