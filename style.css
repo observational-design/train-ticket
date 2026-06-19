@@ -15,6 +15,12 @@
     border-radius: 20px 20px 0px 0px;
 }
 
+.ticket-background {
+    height: 225px;
+    width: 450px;
+    color: #69FF05;
+}
+
 .bottom-border {
     height: 50px;
     width: 450px;
