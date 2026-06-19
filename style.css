@@ -3,6 +3,9 @@
     border-radius: 20px;
     height: 275px;
     width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .top-border {
