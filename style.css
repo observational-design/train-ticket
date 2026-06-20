@@ -24,6 +24,10 @@ h2 {
     justify-content: space-between;
 }
 
+.top-border-text {
+    margin: 10px;
+}
+
 .ticket-background {
     height: 175px;
     width: 450px;
