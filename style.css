@@ -37,6 +37,10 @@ h2 {
     background-size: 100% 5px;
 }
 
+.valid {
+    padding: 20px;
+}
+
 .bottom-border {
     height: 50px;
     width: 450px;
