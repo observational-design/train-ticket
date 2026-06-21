@@ -42,6 +42,10 @@ h2 {
     max-width: 225px;
 }
 
+.destinations {
+    padding: 15px;
+}
+
 .bottom-border {
     height: 50px;
     width: 450px;
