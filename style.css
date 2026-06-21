@@ -33,7 +33,6 @@ h2 {
 .ticket-background {
     height: 175px;
     width: 450px;
-    color: #69FF05;
     background: linear-gradient(to bottom, #69FF05, #FFFFFF);
     background-size: 100% 5px;
 }
