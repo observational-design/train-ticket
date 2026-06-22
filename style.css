@@ -40,6 +40,8 @@ h4 {
     width: 450px;
     background: linear-gradient(to bottom, #69FF05, #FFFFFF);
     background-size: 100% 5px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .valid {
