@@ -55,6 +55,9 @@ h4 {
 
 .date {
     max-width: 105px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
 .bottom-border {
