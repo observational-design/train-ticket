@@ -86,5 +86,7 @@ h4 {
 
 .lines {
     background-color: #FF621F;
-    width: 30px;
+    width: 35px;
+    height: 5px;
+    display: inline-block;
 }
