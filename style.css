@@ -7,6 +7,12 @@ h2 {
     margin: 0px;
 }
 
+h3 {
+    margin: 0px;
+    font-size: 16px;
+    max-width: 100px;
+}
+
 h4 {
     margin: 0px;
     font-size: 12px;
@@ -89,8 +95,4 @@ h4 {
     width: 35px;
     height: 5px;
     display: inline-block;
-}
-
-.serial-number {
-    max-width: 100px;
 }
