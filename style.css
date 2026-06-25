@@ -90,3 +90,7 @@ h4 {
     height: 5px;
     display: inline-block;
 }
+
+.serial-number {
+    max-width: 100px;
+}
